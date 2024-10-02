@@ -1,8 +1,8 @@
 <DOCTYPE html>
   <html>
   <body>
-    <h2>OI! Sou a Linlin</h2>
-    <p>Estudante de sistemas de informação e cinéfila nas horas vagas, vou deixar meus projetinhos registrados aqui!!!</p>
+    <h2>É a Linlin ღ</h2>
+    <p>Estudante de sistemas de informação - FURG</p>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sdscarla&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
