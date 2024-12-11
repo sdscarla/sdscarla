@@ -1,17 +1,33 @@
 <!DOCTYPE html>
   <html>
   <body>
-    <h2 align="center">É a Linlin ღ</h2>
-    <p align="center">Estudante de sistemas de informação - FURG</p>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sdscarla&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdscarla&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
-  </a>
-</div>
+    <h2 align="center">Olá, eu sou a Linlin ღ</h2>
+    <h2>Sobre mim</h2>
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <p>📕  Atualmente sou graduanda em Sistemas de Informação pela FURG</p>
+      <p>💻  Me especializando em tecnologias voltada para o desenvolvimento web, focada em front-end</p>
+      <p>🎬🧵Além de tecnologia, também tenho um lado apaixonada por filmes e moda/costura</p>
+    </td>
+    <td style="align: right;">
+      <img src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" alt="gif">
+    </td>
+  </tr>
+<tr>
+        <td style="text-align: left;">
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=sdscarla&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+              </a>
+        </td>
+
+  <td style="align: rigth;">
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdscarla&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+              </a>
+        </td>
+    </tr>
+</table>
 
 <div align="center" style="display: inline_block"><br>
   <h2>Linguagens & Ferramentas</h2>
